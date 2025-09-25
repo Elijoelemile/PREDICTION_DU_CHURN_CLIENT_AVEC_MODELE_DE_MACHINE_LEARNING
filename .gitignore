@@ -1,0 +1,5 @@
+# Ignorer les fichiers CSV dans le dossier raw_data
+infrastructure/data_lake/raw_data/*.csv
+
+# Igonrer l'environnement virtuel
+env/
