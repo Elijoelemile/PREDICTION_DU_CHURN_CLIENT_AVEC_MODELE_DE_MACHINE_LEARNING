@@ -124,6 +124,7 @@ notebook/
 └── prediction_du_churn_client.ipynb                Il est ici le notebook
 visualisations/
 └── app_viz.py
+orchestrator_etl.py
 README.md
 requirements.txt
 Ce projet vise à fournir une solution robuste de prédiction du churn client, essentielle pour la rétention client dans le secteur des télécommunications.
@@ -137,3 +138,7 @@ Si vous avez un repository GitHub, vous pouvez :
 3. Coller le contenu
 
 Le fichier est maintenant prêt à être utilisé dans votre projet !
+
+Contact: 0669002240 
+Github: https://github.com/Elijoelemile
+gmail: nzoghessono@gmail.com
